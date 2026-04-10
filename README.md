@@ -4,9 +4,8 @@
 ## Project Details
 - **Student**: Adarsh Rai  
 - **Course**: SEC035 - Web Programming with Python and Javascript Lab
-
 - **Session**: 2025-26 Even Semester
-- 
+
 - **Submission**: Single-file `index.html` with embedded CSS
 
 ## Features Implemented
